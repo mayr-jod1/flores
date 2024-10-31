@@ -65,8 +65,6 @@ Nombre: MAYRA MOLINA </p>
 <img src="136253.jpeg" width="400" height="200"/>
 <img src="para enamorados.webp" width="400" height="200"/>
 <img src="iglesia.png" width="400" height="200"/>
-
-  </div>  
   <audio controls> <source src="audio.mp3" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
      <video width="600" height="400" controls>
     <source src="elisa.mp4" type="video/mp4">
@@ -74,9 +72,3 @@ Nombre: MAYRA MOLINA </p>
     
 	<a href="Base Access China.html"></a> <br> 
 	
-
-
-
-</body>
-
-</html>`
