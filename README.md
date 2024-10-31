@@ -4,6 +4,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>MI PAGINA WEED  DE MAYRA  </title>
   <style>
+  
+    body {
+      margin: 0;
+
+    }
+
+    /* estilo parar la base del menu */
+    .topnav {
+     overflow: hidden;
+   
+	
+	<link rel="stylesheet" type="text/css" href="css/estilo.css" /> 
+	
+  </style>
+</head>
+
+<body>
+  <!-- Definimos el area del encabezado -->
+  <div class="header">
    
   <!-- Definimos el area del encabezado -->
   <div class="header">
