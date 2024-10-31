@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <body bgcolor="pink">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -27,7 +26,7 @@
       display: block;
       color: #F2F2F2;
       text-align: center;
-      padding: 14px 16px;
+      padding: 19px 18px;
       text-decoration: none;
     }
 
@@ -81,7 +80,6 @@
   <!-- Definimos el area del encabezado -->
   <div class="header">
       <h1> VENTAS DE  FLORES  </h1>
-  </div>
   <!-- inicio del piede de pagina -->
   <div class="footer">
     <p> <h8></h8> </p>
