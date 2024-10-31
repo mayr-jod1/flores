@@ -60,7 +60,7 @@ Nombre: MAYRA MOLINA </p>
   </div>
   <!-- inicio del piede de pagina -->
   <div class="footer">
-    <p> <h11></h10> </p>
+    <p>
 <img src="cumple.jfif" width="400" height="200"/>
 <img src="136253.jpeg" width="400" height="200"/>
 <img src="para enamorados.webp" width="400" height="200"/>
