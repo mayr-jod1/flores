@@ -82,7 +82,7 @@
       <h1> VENTAS DE  FLORES  </h1>
   <!-- inicio del piede de pagina -->
   <div class="footer">
-    <p> <h8></h8> </p>
+    <p> <h9></h9> </p>
 <a href="#">VENTAS DE DECORACIONES CON FLORES NATURALES  </a>
 
   </div>
