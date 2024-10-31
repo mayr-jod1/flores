@@ -18,7 +18,7 @@
 	<link rel="stylesheet" type="text/css" href="css/estilo.css" /> 
 	
   </style>
-</head>
+
 
 <body>
   <!-- Definimos el area del encabezado -->
@@ -46,7 +46,7 @@
    6245-5495 <P>
        CON EL VENDEDOR DE DECORACIONES CON  FLORES NATURALES <P>
 Nombre: MAYRA MOLINA </p>
-    </div>
+
     <div class="row__column middle">
       <h2>suscribete anuestro canal de VENTAS DE DECORACIONES CON FLORES NATURALES   </h2>
       <p>https://www.youtube.com/watch?v=4jONhHz1KLI</p>
@@ -57,7 +57,6 @@ Nombre: MAYRA MOLINA </p>
       </p> para enamorados 
       </p>para la iglesia 
 
-    </div>
   </div>
   <!-- inicio del piede de pagina -->
   <div class="footer">
