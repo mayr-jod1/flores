@@ -26,7 +26,7 @@
    
   <!-- Definimos el area del encabezado -->
   <div class="header">
-      <h1> VENTAS DE  FLORES  </h1>
+      <h1><MARQUEE> VENTAS DE  FLORES</MARQUEE></h1>
   <!-- inicio del piede de pagina -->
   <div class="footer">
     <p> <h9></h9> </p>
