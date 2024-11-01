@@ -42,7 +42,7 @@
     <div class="row__column side">
       <h2> EN QUE PODEMOS AYUDARTE</h2>
  le tenemos decoraciones con flores naturales para toda clases de evento que se presente,solo as tu pedido y lo asemos al gusto del cliente 
-      <p><MARQUEE>CONTACTANOS AL NUMERO</p></div></div></MARQUEE><P>
+      <p><MARQUEE>CONTACTANOS AL NUMERO</p></MARQUEE><P>
    6245-5495 <P>
        CON EL VENDEDOR DE DECORACIONES CON  FLORES NATURALES <P>
 Nombre: MAYRA MOLINA </p>
